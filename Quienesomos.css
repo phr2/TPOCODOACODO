@@ -1,0 +1,37 @@
+*{
+    background-color: rgb(187, 155, 218);
+
+}
+
+.título{
+    color: rgb(61, 4, 68);
+    background: rgb(153, 40, 138);
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    letter-spacing: 0.1px;
+    text-align: center;
+    margin-left: 250px;
+    margin-right: 240px;
+}
+
+img{
+
+    height: 400px;
+    width: 800px;
+    align-content: center;
+    margin-left: 250px;
+    margin-right: 250px;
+   }
+
+#parrafo{
+    font-size: 15px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-left: 250px;
+    margin-right: 250px;
+  }
+.footer{
+        color: brown;
+        background-color: blueviolet;
+        margin-left: 250px;
+        margin-right: 250px;
+    }
